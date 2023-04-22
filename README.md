@@ -1,46 +1,9 @@
-# Getting Started with Create React App and Redux
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img width="960" alt="dev1" src="https://user-images.githubusercontent.com/112754995/233798628-b6ac9ebb-4c14-416f-81d8-e6e536661da7.png">
+<img width="960" alt="dev2" src="https://user-images.githubusercontent.com/112754995/233798636-f95e3728-3fc1-4b4e-bd3b-a63e7b687617.png">
+<img width="960" alt="dev3" src="https://user-images.githubusercontent.com/112754995/233798638-570c1603-2f2f-495b-9090-f02569d95ad0.png">
+<img width="960" alt="dev4" src="https://user-images.githubusercontent.com/112754995/233798640-86eb1b87-c4db-4287-b5f4-5e8cc4223706.png">
+<img width="960" alt="dev5" src="https://user-images.githubusercontent.com/112754995/233798646-a92496f2-1cd2-437e-9a7a-e4e6bbc7cb4d.png">
+<img width="960" alt="dev6" src="https://user-images.githubusercontent.com/112754995/233798648-80d549f3-a948-4d03-8ee6-d1e93911c3fa.png">
+<img width="960" alt="dev7" src="https://user-images.githubusercontent.com/112754995/233798654-7bf1f4a4-17d5-4a9c-82cb-bc4cb822b4de.png">
+<img width="960" alt="dev8" src="https://user-images.githubusercontent.com/112754995/233798661-0acb1bdf-0428-4548-9f58-e9559bfb4bd1.png">
+<img width="960" alt="dev9" src="https://user-images.githubusercontent.com/112754995/233798667-62835332-c13b-49c5-8da9-d5009dcf0763.png">
